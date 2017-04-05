@@ -1,4 +1,4 @@
-# TiaoDianzi
+PowerfulIM
 	
 	本软件是仿照teamtalk的一款IM软件
 	谢谢蘑菇街的团队贡献
